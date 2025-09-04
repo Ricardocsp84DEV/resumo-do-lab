@@ -9,6 +9,10 @@ Este laboratório tem como objetivo de consolidar seus conhecimentos em máquina
 tipos.de.servicos.de.nuvem
 Este laboratório tem como objetivo praticar o processo de configuração de uma instância de Banco de Dados na plataforma Microsoft Azure. Como entregável, o desafio proposto é a criação de um repositório contendo resumos, anotações e dicas sobre o uso da Azure, servindo como material de apoio para estudos e futuras implementações.
 
+Recaptulando o aprendizado "Computação e Rede" 
+Tipos de computação, instâncias de contêiner, máquinas virtuais e funções.
+Opções de hospedagem de aplicativos, Aplicativos Web do Azure, contêineres e máquinas virtuais.
+Redes virtuais, sub-redes,  emparelhamento, DNS, do Gateway de VPN e do ExpressRoute.
 
 
 
